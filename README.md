@@ -1,1 +1,2 @@
 # ecomerce
+This is a Node application that utilizes sequelize to create new data enteries into a database; categorized with a helpful group of models and api routes to get exsisting data, post new data, and delete exsisting data.
